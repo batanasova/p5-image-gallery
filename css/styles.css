@@ -1,4 +1,12 @@
 /* Gallery Styling */
+body {
+    background-color: black;
+}
+
+h1, h3, p {
+    color: white;
+}
+
 
 .gallery .th {
 	float: left;
